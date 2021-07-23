@@ -1,0 +1,22 @@
+{
+  "name": "mern",
+  "version": "1.0.0",
+  "description": "mern",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/alexvirus90/mern.git"
+  },
+  "keywords": [
+    "js"
+  ],
+  "author": "Alexandr Komarov",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/alexvirus90/mern/issues"
+  },
+  "homepage": "https://github.com/alexvirus90/mern#readme"
+}
